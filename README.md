@@ -1,1 +1,3 @@
-# reqres-user-management
+#Run below command
+
+npm install --force
